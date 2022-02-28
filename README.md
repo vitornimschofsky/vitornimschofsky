@@ -5,7 +5,8 @@
 
 
 
-### Hi 👋
+### Hi 👋![image](https://user-images.githubusercontent.com/89933194/155987565-8b620d67-1fb2-4b31-a095-0acac1255a4b.png)
+
 I’m @vitornimschofsky student of development looking for opportunities and collabaration in projects related to data analysis and development.
 
 - 🌱 I’m currently learning Python for automation, data analysis and development.

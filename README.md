@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/gg>
+<img src=https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true>
 
 ### Hi 👋
 I’m @vitornimschofsky student of development looking for opportunities and collabaration in projects related to data analysis and development.

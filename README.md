@@ -14,6 +14,8 @@ I’m @vitornimschofsky student of development looking for opportunities and col
 - 
 - 👀 I’m looking to collaborate on data analysis, development and cyber security projects. 
 
+My Stats
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=vitornimschofsky)
 
 
@@ -25,6 +27,6 @@ I’m @vitornimschofsky student of development looking for opportunities and col
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=558194139806)
 [<img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:vitor.franklin@hotmail.com)
 
-https://github-readme-streak-stats.herokuapp.com/?user={vitornimschofsky}
-https://github-readme-stats.vercel.app/api/top-langs/?username={vitornimschofsky}
 
+![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={vitornimschofsky})
+![YOUR github stats](https://github-readme-streak-stats.herokuapp.com/?user={vitornimschofsky})

@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/(https://raw.githubusercontent.com/mrhrifat/mrhrifat/master/gifs/code.gif)>
 
 ### Hi 👋
 I’m @vitornimschofsky student of development looking for opportunities and collabaration in projects related to data analysis and development.

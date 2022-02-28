@@ -1,6 +1,8 @@
 
 
-<img src=https://github.com/mrhrifat/mrhrifat/blob/master/gifs/code.gif?raw=true>
+
+![gg](https://user-images.githubusercontent.com/89933194/155986833-4ebbf319-8593-4e12-b9ca-8a50f3b58e24.gif)
+
 
 ### Hi 👋
 I’m @vitornimschofsky student of development looking for opportunities and collabaration in projects related to data analysis and development.

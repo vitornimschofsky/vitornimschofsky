@@ -1,7 +1,8 @@
+![gg](https://user-images.githubusercontent.com/89933194/155987460-86cb3ab2-0c75-49d7-afc7-c8a630c255bd.gif)
 
 
 
-![gg](https://user-images.githubusercontent.com/89933194/155986833-4ebbf319-8593-4e12-b9ca-8a50f3b58e24.gif)
+
 
 
 ### Hi 👋

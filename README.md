@@ -28,5 +28,3 @@ My Stats
 [<img src = "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">](mailto:vitor.franklin@hotmail.com)
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api/top-langs/?username={vitornimschofsky})
-![YOUR github stats](https://github-readme-streak-stats.herokuapp.com/?user={vitornimschofsky})

@@ -4,7 +4,7 @@
 
 ### Hi 👋
 I’m @vitornimschofsky student of development looking for opportunities and collabaration in projects related to data analysis and development.
-- 🔭
+
 - 🌱 I’m currently learning Python for automation, data analysis and development.
 - 
 - 👀 I’m looking to collaborate on data analysis, development and cyber security projects. 

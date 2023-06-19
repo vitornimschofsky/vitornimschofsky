@@ -11,7 +11,6 @@
 I’m @vitornimschofsky Data Engineer looking for opportunities and collabaration in projects related to data engenieer and development.
 
 - 🌱 I’m currently work with Python and Pyspark for automation, data analysis and development.
-- 
 - 👀 I’m looking to add value to your data
 
 My Stats
